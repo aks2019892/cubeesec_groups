@@ -39,29 +39,30 @@ import {
 export const navigation = [
   {
     id: "0",
-    title: "Features",
+    title: "Corporate",
     url: "#features",
   },
   {
     id: "1",
-    title: "Pricing",
+    title: "Services",
     url: "#pricing",
   },
   {
     id: "2",
-    title: "How to use",
+    title: "Why Us?",
     url: "#how-to-use",
   },
   {
     id: "3",
-    title: "Roadmap",
+    title: "Contact Us",
     url: "#roadmap",
   },
   {
     id: "4",
-    title: "New account",
+    title: "Blogs",
     url: "#signup",
     onlyMobile: true,
+    
   },
   {
     id: "5",

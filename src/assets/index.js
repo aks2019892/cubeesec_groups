@@ -1,4 +1,5 @@
-import brainwave from "./brainwave.svg";
+
+import cubeesec_logo from "./cubeesec_logo.png";
 import check from "./check.svg";
 import brainwaveSymbol from "./brainwave-symbol.svg";
 import brainwaveWhiteSymbol from "./brainwave-symbol-white.svg";
@@ -76,7 +77,7 @@ import telegram from "./socials/telegram.svg";
 import twitter from "./socials/twitter.svg";
 
 export {
-  brainwave,
+  cubeesec_logo,
   check,
   check2,
   loading1,
